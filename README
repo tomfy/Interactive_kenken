@@ -1,1 +1,6 @@
 Interactive kenken game.
+Web-based, java-script
+
+Idea is as you play you get to define cages
+and choose which information (sum, etc.) you
+get for each cage.
