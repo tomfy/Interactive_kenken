@@ -4,3 +4,14 @@ Web-based, java-script
 Idea is as you play you get to define cages
 and choose which information (sum, etc.) you
 get for each cage.
+
+Sum, product are straightforward.
+
+Difference - how to generalize to cage bigger than 2 squares? There are several
+possibilities:
+1) Sort the numbers and alternate + and -, giving largest a plus so result is >= 0.
+
+Division. In standard kenken this is only given for cages with 2 squares, 
+and for which on is an integer multiple of the other, 
+so division gives an integer. 
+In interactive case ...
