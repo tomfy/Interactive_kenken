@@ -16,6 +16,6 @@ but the same is not true for n-1.
 Result is (sum of first n) - (sum of remaining numbers).
 
 Division. In standard kenken this is only given for cages with 2 squares, 
-and for which on is an integer multiple of the other, 
+and for which one number is an integer multiple of the other, 
 so division gives an integer. 
 In interactive case ...
